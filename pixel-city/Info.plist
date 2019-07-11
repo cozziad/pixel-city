@@ -39,5 +39,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>May have location data pleessazzzzis always</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>May have location data pleessazzzzis always and forever in usage</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>May have location data pleessazzzzis when in use</string>
 </dict>
 </plist>
